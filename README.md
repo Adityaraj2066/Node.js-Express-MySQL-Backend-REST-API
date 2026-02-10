@@ -28,15 +28,16 @@ The project demonstrates how to create RESTful APIs and perform CRUD operations 
 nodejs-express-mysql-backend/
 │
 ├── app/
-│ ├── controllers/
-│ ├── models/
-│ ├── routes/
-│ └── config/
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   └── config/
 │
 ├── server.js
 ├── package.json
 ├── package-lock.json
 └── README.md
+
 
 
 ---
